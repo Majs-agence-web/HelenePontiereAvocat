@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Compétences.html",
+    "currentPage": "Le Cabinet.html",
     "theme": {
       "name": "portfoliom4",
       "title": "PortfolioM4",
@@ -11871,7 +11871,7 @@
             ".mbr-iconfont": {
               "z-index": "1",
               "position": "absolute",
-              "font-size": "9rem",
+              "font-size": "2rem",
               "color": "@quoteColor",
               "opacity": "@quoteOpacity",
               "&.right-top": {
